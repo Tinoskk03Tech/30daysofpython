@@ -1,6 +1,9 @@
 #Question 1
 
 print("Python 3.13.5") #python --version
+# Affichage de la version de Python
+import sys
+print("La version de Python est : ", sys.version)
 
 #Question 2
 
