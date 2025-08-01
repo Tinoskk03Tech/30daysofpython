@@ -76,7 +76,6 @@ for i in range(101):
 print("The sum of all evens is", sum_even)
 print("The sum of all odds is", sum_odd)
 
-
 # 🔹 LEVEL 3
 
 # 1. Extract countries containing 'land'
