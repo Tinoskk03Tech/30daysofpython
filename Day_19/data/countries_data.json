@@ -1,0 +1,62 @@
+[
+  {
+    "name": "China",
+    "population": 1377422166,
+    "languages": ["Chinese"]
+  },
+  {
+    "name": "India",
+    "population": 1295210000,
+    "languages": ["Hindi", "English"]
+  },
+  {
+    "name": "United States of America",
+    "population": 323947000,
+    "languages": ["English"]
+  },
+  {
+    "name": "Indonesia",
+    "population": 258705000,
+    "languages": ["Indonesian"]
+  },
+  {
+    "name": "Brazil",
+    "population": 206135893,
+    "languages": ["Portuguese"]
+  },
+  {
+    "name": "Pakistan",
+    "population": 194125062,
+    "languages": ["Urdu", "English"]
+  },
+  {
+    "name": "Nigeria",
+    "population": 186988000,
+    "languages": ["English"]
+  },
+  {
+    "name": "Bangladesh",
+    "population": 161006790,
+    "languages": ["Bengali"]
+  },
+  {
+    "name": "Russian Federation",
+    "population": 146599183,
+    "languages": ["Russian"]
+  },
+  {
+    "name": "Japan",
+    "population": 126960000,
+    "languages": ["Japanese"]
+  },
+  {
+    "name": "France",
+    "population": 66710000,
+    "languages": ["French"]
+  },
+  {
+    "name": "Algeria",
+    "population": 40400000,
+    "languages": ["Arabic", "French"]
+  }
+]
